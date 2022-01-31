@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jest": "^27.4.7",
+    "jshint": "^2.13.4"
+  }
+}
